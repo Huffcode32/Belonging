@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Importance of Belonging</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+line-height: 1.5;
+background-color: #f4f4f4;
+}
+h1 {
+color: #2c3e50;
+}
+h2 {
+color: #34495e;
+}
+p {
+font-size: 16px;
+}
+img {
+max-width: 100%;
+height: auto;
+border-radius: 6px;
+margin-bottom: 10px;
+}
+.section {
+background-color: white;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+</style>
+</head>
+<body>
+<div class="section">
+<h1>The Importance of Belonging</h1>
+<p>Belonging gives purpose and identity. Neglect or abuse can suppress empathy, as seen in historical examples.</p>
+</div>
+
+<div class="section">
+<h2>Reason 1</h2>
+<img src="images/gregor.jpg" alt="Gregor Samsa">
+<p>Gregor Samsa wakes as a giant insect, showing dehumanization. In concentration camps, Jews lose names and become numbers.</p>
+</div>
+
+<div class="section">
+<h2>Reason 2</h2>
+<img src="images/kristallnacht.jpg" alt="Kristallnacht">
+<p>Nuremberg Laws and Kristallnacht show legal and physical persecution. The Rwanda Genocide killed 800,000 in 100 days.</p>
+</div>
+
+<div class="section">
+<h2>Reason 3</h2>
+<img src="images/rwanda.jpg" alt="Rwanda Refugees">
+<p>Boycotts and Judenrein policies forced Jews out of public life. In Hotel Rwanda, UN peacekeepers could not intervene.</p>
+</div>
+
+<div class="section">
+<h2>Conclusion</h2>
+<p>A sense of belonging is vital. Isolation makes people vulnerable. Protecting belonging supports identity, security, and survival.</p>
+</div>
+</body>
+</html>
